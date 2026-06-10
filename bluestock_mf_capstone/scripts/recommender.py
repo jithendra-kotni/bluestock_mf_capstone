@@ -1,3 +1,8 @@
+"""
+etl_pipeline.py
+Bluestock Fintech | Mutual Fund Analytics Capstone
+Run: python scripts/etl_pipeline.py
+"""
 from pathlib import Path
 import pandas as pd
 
